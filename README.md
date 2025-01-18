@@ -3,6 +3,7 @@
 
 This application allows users to solve mathematical problems by either uploading images of math equations or drawing them directly in the application. The app uses Google's Gemini AI model to analyze the problems and provide detailed solutions.
 
+Check out our [website](https://mathtolatex.streamlit.app/)!
 ## Features
 
 - Image upload support for math problems
@@ -32,6 +33,8 @@ pip install -r requirements.txt
 ```
 
 ## Usage
+
+1. Go the the [website](https://mathtolatex.streamlit.app/).
 
 1. Run the Streamlit application:
 ```bash
